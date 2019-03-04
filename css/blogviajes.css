@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.contenedor {
+ width: 80%;
+ margin: auto;
+
+}
+.siteHeader img{
+widows: 100px;
+
+}
+
+ i {
+    font-size: 20px;
+    color:white;
+    text-decoration: none;
+    display: block;
+    background: mediumvioletred;
+    
+}
+
+
